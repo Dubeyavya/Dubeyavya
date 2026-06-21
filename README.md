@@ -10,7 +10,5 @@ Hi, I’m Avishee Dubey Data/Business Analyst with 1.5+ years of experience in o
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dubeyavya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Dubeyavya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dubeyavya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
